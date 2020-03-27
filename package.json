@@ -1,0 +1,26 @@
+{
+  "name": "tdd-game-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanjwatson/tdd-game-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanjwatson/tdd-game-tracker/issues"
+  },
+  "homepage": "https://github.com/jonathanjwatson/tdd-game-tracker#readme",
+  "devDependencies": {
+    "jest": "^25.2.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
